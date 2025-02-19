@@ -2,7 +2,7 @@
 
 - 📍 Based in **Curitiba, Brasil**.
 - 🎓 Pursuing a **Bachelor's degree in Information Systems** at **UTFPR (Federal University of Technology - Paraná)**.
-- 💻 Learning **Web Development** with React and Typescript.
+- 💻 Front-end developer [@nossoolharsolidario](https://github.com/nossoolharsolidario)
 - ⚡ I'm really into **music**, **games** and **anime**.
 - 👀 I use **vim** btw.
 
